@@ -1,3 +1,3 @@
-## In Mysql (Xampp)
+## Installation Guide
 
-Run the attachment healthcare.sql to create a database named thuong with available data.
+Open Mysql (Xampp) and run the attachment healthcare.sql to create a database named thuong with available data.
