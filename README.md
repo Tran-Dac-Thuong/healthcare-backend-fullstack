@@ -5,3 +5,19 @@ Health Care is an online medical appointment booking platform designed to reduce
 ## Installation Guide
 
 Open Mysql (Xampp) and run the attachment healthcare.sql to create a database named thuong with available data.
+
+Access the link http://localhost:3000/system/user-manage to switch to the user management page.
+
+If the link requires login, you can log in with an admin or doctor account.
+
+### Admin account
+
+Email: dev@gmail.com
+
+Password: 321
+
+### Doctor account
+
+Email: doctor1@gmail.com
+
+Password: 321
