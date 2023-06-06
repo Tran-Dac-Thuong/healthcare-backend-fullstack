@@ -6,6 +6,8 @@ Health Care is an online medical appointment booking platform designed to reduce
 
 Open Mysql (Xampp) and run the attachment healthcare.sql to create a database named thuong with available data.
 
+In terminal, type npm start to run the project.
+
 Access the link http://localhost:3000/system/user-manage to switch to the user management page.
 
 If the link requires login, you can log in with an admin or doctor account.
